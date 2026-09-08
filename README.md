@@ -26,7 +26,6 @@
 ```python
 class Chirath:
     def __init__(self):
-        self.role     = "AI & ML Engineer @ WabyBixAI"
         self.education = "BSc (Hons) IT — University of Moratuwa"
         self.focus    = ["Computer Vision", "LLM Applications", "Agentic AI"]
         self.learning = ["MLOps", "Cloud Architecture"]
